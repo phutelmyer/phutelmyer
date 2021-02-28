@@ -1,9 +1,9 @@
 ### Welcome to my GitHub page! :octocat:
 #### Cyber Security Engineer / Practitioner
 
-I have been part of the Cyber Security field for over ten years exploring areas of proactive cyber threat detection, hunting, and mitigation, automated analysis, digital forensics, and intrusion remediation. I have a B.S. in Digital Forensics from Bloomsburg University of Pennsylvania and achieved GCFA, CISSP, EnCE, ACE, CEH, and ECSA certifications. I am currently employed at Target Corporation as a Principal Engineer and support open projects such as Strelka.
+I have been part of the Cyber Security field for over ten years exploring areas of proactive cyber threat detection, hunting, and mitigation, automated analysis, digital forensics, and intrusion remediation. I have a B.S. in Digital Forensics and Cybersecurity from [Bloomsburg University of Pennsylvania](https://www.bloomu.edu/) and achieved [GCFA](https://www.giac.org/certification/certified-forensic-analyst-gcfa), [CISSP](https://www.isc2.org/Certifications/CISSP), [EnCE](https://www.opentext.com/products-and-solutions/services/training-and-learning-services/encase-training/examiner-certification), [ACE](https://training.accessdata.com/exam/accessdata-certified-examiner), [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/), and [ECSA](https://www.eccouncil.org/programs/certified-security-analyst-ecsa/) certifications. I am currently employed at Target Corporation as a Principal Engineer and support open projects such as Strelka.
 
-If you'd like to know more about me, feel free to contact me at **Paul.Hutelmyer@gmail.com** or through [LinkedIn] (https://www.linkedin.com/in/paulhutelmyer/)
+If you'd like to know more about me, feel free to contact me at **Paul.Hutelmyer@gmail.com** or through [LinkedIn](https://www.linkedin.com/in/paulhutelmyer/)
 
 ### Focus
 ![](https://img.shields.io/badge/CyberSecurity-informational?style=for-the-badge&color=62757f)
