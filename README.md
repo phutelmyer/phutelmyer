@@ -6,8 +6,6 @@ I have been part of the Cyber Security field for over ten years exploring areas 
 
 If you'd like to know more about me, feel free to contact me at **Paul.Hutelmyer@gmail.com** or through [LinkedIn] (https://www.linkedin.com/in/paulhutelmyer/)
 
-Have a good day.
-
 ### Tools
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=4B8BBE)
 ![](https://img.shields.io/badge/PyCharm-informational?style=for-the-badge&logo=PyCharm&logoColor=white&color=F7B500)
